@@ -42,6 +42,16 @@
       "firstName": "Arumba",
       "lastName": "Popayo",
       "id": 4
+    },
+    {
+      "firstName": "Gregor",
+      "lastName": "Lepshnoj",
+      "id": 5
+    },
+    {
+      "firstName": "Trumba",
+      "lastName": "Umba",
+      "id": 6
     }
   ]
 }
